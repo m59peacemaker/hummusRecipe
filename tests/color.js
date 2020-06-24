@@ -1,6 +1,6 @@
 const path = require('path');
 const HummusRecipe = require('../lib');
-const hummus = require('hummus');
+const hummus = require('muhammara');
 
 describe('Color', () => {
     it('basic', (done) => {
